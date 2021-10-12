@@ -1,4 +1,4 @@
-link github:
+link github: https://github.com/michmitch/Assignment1-OCBC.git
 
 tata cara penggunaan:
 1. Buka code di vscode

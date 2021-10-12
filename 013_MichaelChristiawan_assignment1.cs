@@ -1,6 +1,6 @@
 using System;
 
-public class Sesi2 
+public class MichaelChristiawanAssignment1No013 
 {
 
     public static void nomor1()
@@ -76,12 +76,23 @@ public class Sesi2
     public static void nomor4(){
         Console.Write("Enter a number: ");
         string n = Console.ReadLine();
+        string reversedString = "";
 
         Console.Write("Reversed Number: ");
         for (int i=n.Length-1; i>=0; i--){
             Console.Write(n[i]);
+            reversedString = reversedString + n[i];
         }
+
         Console.WriteLine();
+
+        if(n == reversedString){
+            Console.WriteLine($"{n} adalah Palindrom\n");
+        }
+        else{
+            Console.WriteLine($"{n} bukan Palindrom\n");
+        }
+
     }
 
     public static void nomor5(){

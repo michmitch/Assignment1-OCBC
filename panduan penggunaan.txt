@@ -1,0 +1,13 @@
+link github:
+
+tata cara penggunaan:
+1. Buka code di vscode
+2. Run code menggunakan mono dengan cara klik kanan lalu klik run code
+3. Masuk ke menu 1 untuk jawaban soal nomor 1
+4. Masuk ke menu 2 untuk jawaban soal nomor 2
+5. Masuk ke menu 3 untuk jawaban soal nomor 3
+6. Masuk ke menu 4 untuk jawaban soal nomor 4
+7. Masuk ke menu 5 untuk jawaban soal nomor 5
+8. Masuk ke menu 6 untuk exit dari program
+
+Terima kasih
